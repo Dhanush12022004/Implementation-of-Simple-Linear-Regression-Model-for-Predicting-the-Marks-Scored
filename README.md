@@ -87,6 +87,7 @@ rmse=np.sqrt(mse)
 print("RMSE = " ,rmse)
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
+
 ![image](https://user-images.githubusercontent.com/128135558/229563070-bf2c3897-90be-44d5-ac5d-363fc33f497d.png)
 
 ![image](https://user-images.githubusercontent.com/128135558/229563222-376077cf-262c-413a-8770-64f4113cf7c6.png)
@@ -96,6 +97,14 @@ print("RMSE = " ,rmse)
 ![image](https://user-images.githubusercontent.com/128135558/229563544-0436778e-1acc-41c7-ad7b-84c36806a548.png)
 
 ![image](https://user-images.githubusercontent.com/128135558/229563682-161cf743-e6c2-4552-9f57-1387d7ca4d06.png)
+
+![image](https://user-images.githubusercontent.com/128135558/229564169-9fe92538-84c3-42ed-903c-7c9afdf892fe.png)
+
+![image](https://user-images.githubusercontent.com/128135558/229564350-03d03627-2294-4483-9458-a705dd0b219e.png)
+
+![image](https://user-images.githubusercontent.com/128135558/229564577-c6ff388b-e419-4bce-82fb-0851e2af8ac3.png)
+
+![image](https://user-images.githubusercontent.com/128135558/229564707-de744960-b596-48fe-8542-ff133685c460.png)
 
 
 ## Result:
